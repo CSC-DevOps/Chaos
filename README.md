@@ -124,7 +124,7 @@ Run it.
 
 Induce load on the green canary server.
 
-    siege -b -t30s http://192.168.44.102:3080/stackless
+    siege -b -t30s http://192.168.66.108:3080/stackless
 
 Now, induce load on the control server.
 
