@@ -195,9 +195,10 @@ Notice anything interesting?
 
 1. Inside one of the containers (e.g., using `docker exec -it app3 sh`), add and run the command to fill the disk: `./fill_disk.sh /fill 2G`.
 
-2. Kill the container and start it again. What happened?
+2. Try to create a file inside another container. What happened?
 
-3. Try to create a file inside another container.
+3. Kill the container and start it again.
+
 
 🔴 **What surprising fact did you learn?**
 
