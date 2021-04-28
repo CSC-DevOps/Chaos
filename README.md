@@ -11,7 +11,7 @@ We will explore basic fault and event injection to understand how a simple servi
 Pull the image needed for this workshop.
 
 ```bash
-bakerx pull CSC-DevOps/Images#Spring2020 chaos
+bakerx pull chaos CSC-DevOps/Images#Spring2020
 ```
 
 Clone this repository.
